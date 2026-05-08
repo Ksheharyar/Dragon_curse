@@ -7,7 +7,7 @@ Dragon's Curse is a 2D action-adventure game featuring multiple environments, ch
 # Play the Game
 
 🎮 Itch.io Build:
-[https://mohd-sheharyar.itch.io/dragons-curse](https://mohd-sheharyar.itch.io/dragons-curse)
+[https://mohd-sheharyar.itch.io/dragons-curse](https://mohd-sheharyar.itch.io/dragons-curse) 
 
 ---
 
