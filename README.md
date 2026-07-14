@@ -12,7 +12,7 @@ Dragon's Curse is a 2D action-adventure game featuring multiple environments, ch
 ----
 
 # Game Overview
-
+ 
 Immerse yourself in an engaging 2D game that offers diverse environments, challenging levels, and formidable adversaries. Explore a variety of settings and overcome varying levels of difficulty as you encounter different enemies. Dive into the captivating world of Dragon's Curse and enjoy the thrill of strategic gameplay.
 
 ---
